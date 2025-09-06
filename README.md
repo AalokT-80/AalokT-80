@@ -1,7 +1,6 @@
 # 👋 Hello, I'm Alok Tiwari
 
 ![Machine Learning Enthusiast](https://img.shields.io/badge/Machine%20Learning-Enthusiast-brightgreen)
-![Portfolio in Django](https://img.shields.io/badge/Portfolio-Django-informational)
 ![Graduate in AI & DS](https://img.shields.io/badge/Graduate-AI%20&%20Data%20Science-blueviolet)
 ![Location](https://img.shields.io/badge/Location-India-orange)
 
